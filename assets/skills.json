@@ -1,0 +1,13 @@
+{
+  "title": "Om Magar — Skills",
+  "_comment": "Self-rated skill levels. Values are 0-100.",
+  "axes": [
+    { "label": "Python", "value": 80 },
+    { "label": "DSA", "value": 78 },
+    { "label": "Machine Learning", "value": 72 },
+    { "label": "Deep Learning", "value": 70 },
+    { "label": "Computer Vision", "value": 72 },
+    { "label": "PyTorch", "value": 68 },
+    { "label": "Streamlit", "value": 75 }
+  ]
+}

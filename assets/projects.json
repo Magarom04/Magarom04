@@ -1,0 +1,13 @@
+{
+  "_comment": "Featured repositories for Om Magar's GitHub profile.",
+  "projects": [
+    {
+      "repo": "Medical-deepfake-detection",
+      "description": "A Streamlit-based medical deepfake detection system using CNN and Vision Transformer (ViT) models for image-based analysis."
+    },
+    {
+      "repo": "neetcode-submissions",
+      "description": "A growing collection of daily DSA problem solutions and submissions while progressing through the NeetCode roadmap."
+    }
+  ]
+}
